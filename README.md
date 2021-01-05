@@ -1,5 +1,7 @@
 # AOLE-project
 AOLE (Aalto Factory of the Future in the Cloud)
+
+##Installation
 Here in this project you will need to install the following:
 * Visual Components (Simualtion environment)
 * UaExpert (OPC UA Client)
