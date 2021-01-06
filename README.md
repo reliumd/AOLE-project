@@ -12,6 +12,7 @@ You're sections headers will be used to reference location of destination.
 - [Description](#description)
 - [Installation](#installation)
 - [References](#references)
+- [How To Use](#how-to-use)
 - [License](#license)
 - [Author Info](#author-info)
 
@@ -60,6 +61,8 @@ To successfully compile and run all parts of the project the following software 
 [Back To The Top](#AOLE-Project)
 
 ---
+
+## How To Use
 
 ## References
 [Back To The Top](#AOLE-Project)
