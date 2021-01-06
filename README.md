@@ -65,12 +65,10 @@ To successfully compile and run all parts of the project the following software 
 
 #### Visual Components
 * Open Visual Components file named "Layout.vcmx"
+![Layout](https://user-images.githubusercontent.com/63422870/103789610-e54f9f00-5048-11eb-8b9d-be63f795fc88.png)
 * Set up OPC UA connection to TwinCAT and UaExpert
 * Create Variable Pairs with TwinCAT
 * Run simulation
-![VC2OPCUA](https://user-images.githubusercontent.com/63422870/103789123-517dd300-5048-11eb-9012-602ead2dccff.PNG)
-![Paired variables](https://user-images.githubusercontent.com/63422870/103789364-96a20500-5048-11eb-9a93-06856ee15184.PNG)
-
 
 #### Beckhoff TwinCAT
 See "installationGuide.pdf" in the IoTProjectSrc directory for more information
