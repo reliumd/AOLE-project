@@ -37,10 +37,10 @@ To successfully compile and run all parts of the project the following software 
 ## Installation
 
 #### Visual Components (Simulation Environment)
-* Install Visual Components [link to download](https://www.visualcomponents.com/products/downloads/)
+* Install Visual Components ([Link to download](https://www.visualcomponents.com/products/downloads/))
     - Requires a license that supports modelling and the OPC UA connectivity feature
 #### Beckhoff TwinCAT
-* Install TwinCAT [link to download](http://www.beckhoff.com/TwinCAT/)
+* Install TwinCAT ([Link to download](http://www.beckhoff.com/TwinCAT/))
     - Requirements on all devices at least TwinCAT v.3.1.4022
 
 #### Mosquitto (MQTT broker)
