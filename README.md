@@ -76,7 +76,7 @@ To successfully compile and run all parts of the project the following software 
 
 #### Beckhoff TwinCAT
 * See "installationGuide.pdf" in the IoTTask folder for more information
-* Open "IotMqttSampleUsingQueue.sln" file (can be found in IoTTask folder)
+* Open "IotMqttSampleUsingQueue.sln" file (can be found in TwinCAT folder)
 * Remember to change your IP address and port info
 ![IP address and port](https://user-images.githubusercontent.com/63422870/103790988-930f7d80-504a-11eb-8c4f-b2d24ebaedf4.png)
 
