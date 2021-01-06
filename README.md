@@ -21,10 +21,14 @@ You're sections headers will be used to reference location of destination.
 
 The scope of this project is to create a virtual representation of an automated production layout on Visual Components where users can interact, simulate and make modifications through a set of APIs. These APIs will be created based on the granular level of control, ranging from individual control to sequence control. The intercommunication between Visual Components and the middlewares involved is feasible via industrial communication protocol (OPC UA) and IoT messaging protocol (MQTT). The corresponding APIs can be called from OPC UA Server and the desired data of the simulation and layout can be visualized on OPC UA Client and on Cloud (ThingSpeak).
 
-#### Technologies
-
-- Technology 1
-- Technology 2
+#### Requirements
+To successfully compile and run all parts of the project the following software and environment must be installed and set up:
+* Visual Components
+    - Requires a license that supports modelling and the OPC UA connectivity feature
+* Beckhoff TwinCAT
+* Mosquitto
+* UaExpert
+* ThingSpeak
 
 [Back To The Top](#AOLE-Project)
 
@@ -37,10 +41,10 @@ The scope of this project is to create a virtual representation of an automated 
 #### Beckhoff TwinCAT
 
 #### Mosquitto (MQTT broker)
-- Install OpenSSL (Win32OpenSSL-1_0_2n.exe) to root folder
-    o On step “Select Additional Tasks” choose copy DLLs to /bin directory
-- Installing mosquitto (mosquitto-1.4.15a-install-win32.exe)
-- Put pthreadVC2.lib in mosquitto folder
+* Install OpenSSL (Win32OpenSSL-1_0_2n.exe) to root folder
+    - On step “Select Additional Tasks” choose copy DLLs to /bin directory
+* Installing mosquitto (mosquitto-1.4.15a-install-win32.exe)
+* Put pthreadVC2.lib in mosquitto folder
 
 #### UaExpert (OPC UA Client)
 
