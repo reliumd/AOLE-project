@@ -2,7 +2,7 @@
 
 ![Project Image](project-image-url)
 
-> This is a ReadMe template to help save you time and effort.
+> AOLE project proposes an idea of creating a virtual ecosystem of an automation-related setting (e.g. manufacturing, logistics) which can be assessed and interacted remotely. This idea can be further developed in both academia and industrial direction, with the purpose of validating new ideas or online training.
 
 ---
 
@@ -19,7 +19,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+The scope of this project is to create a virtual representation of an automated production layout on Visual Components where users can interact, simulate and make modifications through a set of APIs. These APIs will be created based on the granular level of control, ranging from individual control to sequence control. The intercommunication between Visual Components and the middlewares involved is feasible via industrial communication protocol (OPC UA) and IoT messaging protocol (MQTT). The corresponding APIs can be called from OPC UA Server and the desired data of the simulation and layout can be visualized on OPC UA Client and on Cloud (ThingSpeak).
 
 #### Technologies
 
