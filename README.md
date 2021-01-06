@@ -68,8 +68,9 @@ To successfully compile and run all parts of the project the following software 
 ![Layout](https://user-images.githubusercontent.com/63422870/103789610-e54f9f00-5048-11eb-8b9d-be63f795fc88.png)
 * Set up OPC UA connection to TwinCAT and UaExpert
 ![VC2OPCUA](https://user-images.githubusercontent.com/63422870/103790474-eaf9b480-5049-11eb-9fb2-6b972687f026.PNG)
-
+![VC-TwinCAT](https://user-images.githubusercontent.com/63422870/103791345-03b69a00-504b-11eb-8f67-0436d8bd39e2.png)
 * Create Variable Pairs with TwinCAT
+![Paired variables](https://user-images.githubusercontent.com/63422870/103791580-47a99f00-504b-11eb-9567-86f55389d950.png)
 * Run simulation
 
 #### Beckhoff TwinCAT
