@@ -74,7 +74,7 @@ limitations under the License.
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Github - [reliumd](https://github.com/reliumd)
+- LinkedIn - [Minh Duc Pham](https://www.linkedin.com/in/minh-duc-pham-468ba9a8/)
 
 [Back To The Top](#read-me-template)
