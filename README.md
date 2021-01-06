@@ -25,7 +25,6 @@ The scope of this project is to create a virtual representation of an automated 
 #### Requirements
 To successfully compile and run all parts of the project the following software and environment must be installed and set up:
 * Visual Components
-    - Requires a license that supports modelling and the OPC UA connectivity feature
 * Beckhoff TwinCAT
 * Mosquitto
 * UaExpert
@@ -38,8 +37,11 @@ To successfully compile and run all parts of the project the following software 
 ## Installation
 
 #### Visual Components (Simulation Environment)
-
+* Install Visual Components [link to download](https://www.visualcomponents.com/products/downloads/)
+    - Requires a license that supports modelling and the OPC UA connectivity feature
 #### Beckhoff TwinCAT
+* Install TwinCAT [link to download](http://www.beckhoff.com/TwinCAT/)
+    - Requirements on all devices at least TwinCAT v.3.1.4022
 
 #### Mosquitto (MQTT broker)
 * Install OpenSSL (Win32OpenSSL-1_0_2n.exe) to root folder
