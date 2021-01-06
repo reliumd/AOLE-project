@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4022.10">
+  <GVL Name="IO" Id="{800fb6b7-1ae3-441b-91e8-aeeaf5ae9089}">
+    <Declaration><![CDATA[
+VAR_GLOBAL
+	
+s1 AT %I* :BOOL;
+s2 AT %I* :BOOL;
+s3 AT %I* :BOOL;
+s4 AT %I* :BOOL;
+b1 AT %I* :BOOL;
+
+L1 AT %Q* :INT;
+L2 AT %Q* :INT;
+L3 AT %Q* :INT;
+
+
+
+END_VAR]]></Declaration>
+  </GVL>
+</TcPlcObject>
