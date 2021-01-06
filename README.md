@@ -50,6 +50,7 @@ To successfully compile and run all parts of the project the following software 
 * Put pthreadVC2.lib in mosquitto folder
 
 #### UaExpert (OPC UA Client)
+* Install UaExpert ([Link to download](https://www.unified-automation.com/downloads.html))
 
 #### ThingSpeak (Cloud)
 
