@@ -99,6 +99,6 @@ limitations under the License.
 ## Author Info
 
 - Github - [reliumd](https://github.com/reliumd)
-- LinkedIn - [Minh Duc Pham](https://www.linkedin.com/in/minh-duc-pham-468ba9a8/)
+- LinkedIn - [Minh Duc Pham](https://www.linkedin.com/in/minh-duc-pham-468ba9a8/)  
 
 [Back To The Top](#AOLE-Project)
