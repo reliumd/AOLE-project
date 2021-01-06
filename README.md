@@ -37,11 +37,10 @@ The scope of this project is to create a virtual representation of an automated 
 #### Beckhoff TwinCAT
 
 #### Mosquitto (MQTT broker)
-There are several step:
- Install OpenSSL (Win32OpenSSL-1_0_2n.exe) to root folder
+- Install OpenSSL (Win32OpenSSL-1_0_2n.exe) to root folder
     o On step “Select Additional Tasks” choose copy DLLs to /bin directory
- Installing mosquitto (mosquitto-1.4.15a-install-win32.exe)
- Put pthreadVC2.lib in mosquitto folde
+- Installing mosquitto (mosquitto-1.4.15a-install-win32.exe)
+- Put pthreadVC2.lib in mosquitto folder
 
 #### UaExpert (OPC UA Client)
 
