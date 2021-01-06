@@ -1,0 +1,15 @@
+# IoT installation guide
+## Mosquitto (MQTT broker)
+There are several steps:  
+1. Install OpenSSL (Win32OpenSSL-1_0_2n.exe) to root folder
+    * On step “Select Additional Tasks” choose copy DLLs to /bin directory  
+    ![openSll][sslInstall.png]
+2. step two 
+
+
+## TwinCAT project
+## Telegram bot
+## IoT communicator application
+- First item
+- Second item
+- Third item  
