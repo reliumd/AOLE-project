@@ -67,11 +67,15 @@ To successfully compile and run all parts of the project the following software 
 * Open Visual Components file named "Layout.vcmx"
 ![Layout](https://user-images.githubusercontent.com/63422870/103789610-e54f9f00-5048-11eb-8b9d-be63f795fc88.png)
 * Set up OPC UA connection to TwinCAT and UaExpert
+![VC2OPCUA](https://user-images.githubusercontent.com/63422870/103790474-eaf9b480-5049-11eb-9fb2-6b972687f026.PNG)
+
 * Create Variable Pairs with TwinCAT
 * Run simulation
 
 #### Beckhoff TwinCAT
-See "installationGuide.pdf" in the IoTProjectSrc directory for more information
+* See "installationGuide.pdf" in the IoTProjectSrc directory for more information
+* Remember to change your IP address and port info
+![IP address and port](https://user-images.githubusercontent.com/63422870/103790988-930f7d80-504a-11eb-8c4f-b2d24ebaedf4.png)
 
 #### Mosquitto (MQTT broker)
 See "installationGuide.pdf" in the IoTProjectSrc directory for more information
@@ -85,6 +89,7 @@ Discover the server address in UaExpert. If it cannot detect the server, manuall
 * Make private channel and field
 * Create Write API Key
 * Replace these values of API key in TwinCAT code
+![API key](https://user-images.githubusercontent.com/63422870/103790777-52176900-504a-11eb-95b9-58852edecb04.png)
 
 ## References
 Detailed information on mosquitto broker (https://mosquitto.org/)  
