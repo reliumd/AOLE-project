@@ -80,7 +80,7 @@ Discover the server address in UaExpert. If it cannot detect the server, manuall
 
 #### ThingSpeak
 * Log in to ThingSpeak
-* Create channel and field, [guide](https://www.youtube.com/watch?v=sBAuexThr30)
+* Create channel and field, ([guide](https://www.youtube.com/watch?v=sBAuexThr30))
 * Make private channel and field
 * Create Write API Key
 * Replace these values of API key in TwinCAT code
