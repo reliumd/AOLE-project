@@ -39,6 +39,8 @@ To successfully compile and run all parts of the project the following software 
 #### Visual Components (Simulation Environment)
 * Install Visual Components ([Link to download](https://www.visualcomponents.com/products/downloads/))
     - Requires a license that supports modelling and the OPC UA connectivity feature
+* Install VC2OPCUA ([Link to download](https://github.com/SintefManufacturing/vc2opcua))
+
 #### Beckhoff TwinCAT
 * Install TwinCAT ([Link to download](http://www.beckhoff.com/TwinCAT/))
     - Requirements on all devices at least TwinCAT v.3.1.4022
@@ -53,23 +55,40 @@ To successfully compile and run all parts of the project the following software 
 * Install UaExpert ([Link to download](https://www.unified-automation.com/downloads.html))
 
 #### ThingSpeak (Cloud)
+* Create an account or sign in with MATLAB account ([Log in here](https://thingspeak.com/login))
 
-
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
 [Back To The Top](#AOLE-Project)
 
 ---
 
 ## How To Use
 
+#### Visual Components
+* Open Visual Components file named "Layout.vcmx"
+* Set up OPC UA connection to TwinCAT and UaExpert
+* Create Variable Pairs with TwinCAT
+* Run simulation
+
+#### Beckhoff TwinCAT
+See "installationGuide.pdf" in the IoTProjectSrc directory for more information
+
+#### Mosquitto (MQTT broker)
+See "installationGuide.pdf" in the IoTProjectSrc directory for more information
+
+#### UaExpert (OPC UA Client)
+Discover the server address in UaExpert. If it cannot detect the server, manually connnect it through the server address "opc.tcp://localhost:51210/UA/VcOpcUaServer"
+
+#### ThingSpeak
+* Log in to ThingSpeak
+* Create channel and field, [guide](https://www.youtube.com/watch?v=sBAuexThr30)
+* Make private channel and field
+* Create Write API Key
+* Replace these values of API key in TwinCAT code
+
 ## References
 Detailed information on mosquitto broker (https://mosquitto.org/)  
-To get API keys create an account on (https://thingspeak.com/)
+To get API keys create an account on (https://thingspeak.com/)  
+Tutorials on Visual Components (https://academy.visualcomponents.com/)
 
 [Back To The Top](#AOLE-Project)
 
