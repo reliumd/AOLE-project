@@ -1,8 +1,8 @@
-# AOLE (Aalto Factory of the Future in the Cloud) Project
+# AOLE Project
 
 ![Project Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCkWiZDPsajIeYHWgUsjYEag&psig=AOvVaw35I5g3usLV_jVViy76_Uaa&ust=1609980660477000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjJpL6Lhu4CFQAAAAAdAAAAABAD)
 
-> AOLE project proposes an idea of creating a virtual ecosystem of an automation-related setting (e.g. manufacturing, logistics) which can be assessed and interacted remotely. This idea can be further developed in both academia and industrial direction, with the purpose of validating new ideas or online training.
+> AOLE (Aalto Factory of the Future in the Cloud) project proposes an idea of creating a virtual ecosystem of an automation-related setting (e.g. manufacturing, logistics) which can be assessed and interacted remotely. This idea can be further developed in both academia and industrial direction, with the purpose of validating new ideas or online training.
 
 ---
 
@@ -26,7 +26,7 @@ The scope of this project is to create a virtual representation of an automated 
 - Technology 1
 - Technology 2
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#AOLE-Project)
 
 ---
 
@@ -49,12 +49,12 @@ The scope of this project is to create a virtual representation of an automated 
 ```html
     <p>dummy code</p>
 ```
-[Back To The Top](#read-me-template)
+[Back To The Top](#AOLE-Project)
 
 ---
 
 ## References
-[Back To The Top](#read-me-template)
+[Back To The Top](#AOLE-Project)
 
 ---
 
@@ -76,7 +76,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#AOLE-Project)
 
 ---
 
@@ -85,4 +85,4 @@ limitations under the License.
 - Github - [reliumd](https://github.com/reliumd)
 - LinkedIn - [Minh Duc Pham](https://www.linkedin.com/in/minh-duc-pham-468ba9a8/)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#AOLE-Project)
