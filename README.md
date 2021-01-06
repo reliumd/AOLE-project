@@ -46,6 +46,7 @@ To successfully compile and run all parts of the project the following software 
     - Requirements on all devices at least TwinCAT v.3.1.4022
 
 #### Mosquitto (MQTT broker)
+* Installation file and guide can be found under IoTTask folder
 * Install OpenSSL (Win32OpenSSL-1_0_2n.exe) to root folder
     - On step “Select Additional Tasks” choose copy DLLs to /bin directory
 * Installing mosquitto (mosquitto-1.4.15a-install-win32.exe)
@@ -74,12 +75,13 @@ To successfully compile and run all parts of the project the following software 
 * Run simulation
 
 #### Beckhoff TwinCAT
-* See "installationGuide.pdf" in the IoTProjectSrc directory for more information
+* See "installationGuide.pdf" in the IoTTask folder for more information
+* Open "IotMqttSampleUsingQueue.sln" file (can be found in IoTTask folder)
 * Remember to change your IP address and port info
 ![IP address and port](https://user-images.githubusercontent.com/63422870/103790988-930f7d80-504a-11eb-8c4f-b2d24ebaedf4.png)
 
 #### Mosquitto (MQTT broker)
-See "installationGuide.pdf" in the IoTProjectSrc directory for more information
+See "installationGuide.pdf" in the IoTTask folder for more information
 
 #### UaExpert (OPC UA Client)
 Discover the server address in UaExpert. If it cannot detect the server, manually connnect it through the server address "opc.tcp://localhost:51210/UA/VcOpcUaServer"
