@@ -30,9 +30,17 @@ The scope of this project is to create a virtual representation of an automated 
 
 ---
 
-## How To Use
+## Installation
 
-#### Installation
+#### Visual Components (Simulation Environment)
+
+#### Beckhoff TwinCAT
+
+#### Mosquitto (MQTT broker)
+
+#### UaExpert (OPC UA Client)
+
+#### ThingSpeak (Cloud)
 
 
 
