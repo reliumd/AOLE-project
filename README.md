@@ -3,6 +3,7 @@
 ![Architecture](https://user-images.githubusercontent.com/63422870/103788345-660d9b80-5047-11eb-95bc-bb0c2cbbc77d.PNG)  
 
 > AOLE (Aalto Factory of the Future in the Cloud) project proposes an idea of creating a virtual ecosystem of an automation-related setting (e.g. manufacturing, logistics) which can be assessed and interacted remotely. This idea can be further developed in both academia and industrial direction, with the purpose of validating new ideas or online training.  
+
 First of all, I would recommend you to read the project report. Then you can follow the README files for installation and how to use the software. Finally you check out this tutorial [video](https://youtu.be/iiVabQawqck) I created. Have fun!!!
 
 ---
